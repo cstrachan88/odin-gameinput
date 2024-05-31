@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.GameInput</id>
+    <version>0.2303.22621.3038</version>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://aka.ms/gameinput</projectUrl>
+    <description>GameInput is a next-generation input API that exposes input devices of all kinds through a single consistent interface.</description>
+    <summary>GameInput is a next-generation input API that exposes input devices of all kinds through a single consistent interface. It is available on PC and Xbox via the GDK. Older versions of Windows going back to Windows 10 19H1 (May 2019 update) are supported. PC support (including earlier versions of Windows) will be available in an upcoming Windows SDK.</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>Microsoft GameInput Game Input native Native C++</tags>
+  </metadata>
+</package>
