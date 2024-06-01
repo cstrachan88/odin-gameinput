@@ -1,2 +1,5 @@
 ols.json
 odinfmt.json
+
+**/*.exe
+**/*.obj
